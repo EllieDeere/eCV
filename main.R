@@ -6,11 +6,11 @@ create_pdf_version <- function(input_file = "docs/cv.Rmd") {
 }
 
 render_both <- function() {
-  rmarkdown::render("docs/cv.Rmd")
+  rmarkdown::render("docs/cv.Rmd", output_dir = "host")
   create_pdf_version()
   
   rmarkdown::render("docs/cv_pdf.Rmd")
-  pagedown::chrome_print("docs/cv_pdf.html", output = "docs/cv.pdf")
+  pagedown::chrome_print("docs/cv_pdf.html", output = "host/cv.pdf")
 }
 
 render_both()
