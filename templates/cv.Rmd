@@ -42,7 +42,7 @@ Publications {#publications}
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-<a href = "/cv.pdf">PDF Version</a>
+<a href = "./cv.pdf">PDF Version</a>
 
 Last updated on `r Sys.Date()`.
 
