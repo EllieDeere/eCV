@@ -12,3 +12,5 @@ render_both <- function() {
   rmarkdown::render("docs/cv_pdf.Rmd")
   pagedown::chrome_print("docs/cv_pdf.html", output = "docs/cv.pdf")
 }
+
+render_both()

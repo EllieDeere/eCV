@@ -1,0 +1,131 @@
+---
+title: "Ellie Deere's CV"
+author: Ellie Deere
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: TRUE
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+[Ellie Deere](https://edeere.co.uk){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> elliedeere123@gmail.com
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Interpersonal and teamworking
+- Research
+- Problem solving
+- Statistical analysis
+- IT
+
+
+Publications {#publications}
+--------------------------------------------------------------------------------
+
+- Davies, B. E., Morgan, S., John-Evans, H., & Deere, E. (2019). [‘Monsters don’t bother me anymore’ forensic mental health service users’ experiences of acceptance and commitment therapy for psychosis.](https://www.tandfonline.com/doi/abs/10.1080/14789949.2019.1614650) The Journal of Forensic Psychiatry & Psychology, 30(4), 594-613.
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!-- -->
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Ellie Deere {#title}
+--------------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Cardiff University
+
+First Class Honors - BSc. Psychology
+
+Cardiff, UK
+
+2014 - 2018 
+
+Project: Looking for trouble? An investigation into attentional biases of angry and fear faces in psychopathy and aggression
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### SPRINt Research Assistant
+
+School of Psychology, Cardiff
+
+Cardiff, UK
+
+June 2017 - August 2017
+
+- Investigated recognition memory deficits in mouse models of Down's syndrome
+- Immunohistochemistry testing on brain slices of mouse modles of Alzheimer's disease
+
+
+### Assistant Clinical Psychologist
+
+Caswell Clinic
+
+Bridgend, UK
+
+2016 - 2017
+
+- Carried out risk assessments of new admissions using the HCR-20V3
+- Contributed to research on methods of psychotherapy
+- Made clinical judgements regarding the care and treatment of patients 
+
+### BSc Research Project
+
+School of Psychology, Cardiff
+
+Cardiff, UK
+
+2018
+
+- Studied attentional biases of angry and fearful faces in psychopathy and aggression, utilising a dot-probe paradigm
+- Awarded a First Class mark
+
+### MSc Research Project
+
+King's College London
+
+London, UK
+
+2019
+
+- Carried out a literature review analysing key barriers to accessing treatment for individuals with dissociative seizures
+- Carried out a further service evaluation of King's College Hospital, looking at the care pathway for patients with dissociative seizures
+
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Neurological Support Worker
+
+N/A
+
+London, UK
+
+2018 - 2019
+
+- Worked in the community with people who have a brain injury of neurological disorder
+- worked primarily with an individual with cerebral palsy with limited mobility
+
