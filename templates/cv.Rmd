@@ -56,6 +56,16 @@ Ellie Deere {#title}
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
+### King's College London
+
+First Class Honors - MSc. Clinical Neuropsychiatry
+
+London, UK
+
+2018 - 2019
+
+Project: What are the barriers to people with dissociative seizures accessing treatment? A literature review and service evaluation
+
 ### Cardiff University
 
 First Class Honors - BSc. Psychology
@@ -69,18 +79,6 @@ Project: Looking for trouble? An investigation into attentional biases of angry 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### SPRINt Research Assistant
-
-School of Psychology, Cardiff
-
-Cardiff, UK
-
-June 2017 - August 2017
-
-- Investigated recognition memory deficits in mouse models of Down's syndrome
-- Immunohistochemistry testing on brain slices of mouse modles of Alzheimer's disease
-
-
 ### Assistant Clinical Psychologist
 
 Caswell Clinic
@@ -92,6 +90,18 @@ Bridgend, UK
 - Carried out risk assessments of new admissions using the HCR-20V3
 - Contributed to research on methods of psychotherapy
 - Made clinical judgements regarding the care and treatment of patients 
+
+### SPRINt Research Assistant
+
+School of Psychology, Cardiff
+
+Cardiff, UK
+
+June 2017 - August 2017
+
+- Investigated recognition memory deficits in mouse models of Down's syndrome
+- Immunohistochemistry testing on brain slices of mouse modles of Alzheimer's disease
+
 
 ### BSc Research Project
 

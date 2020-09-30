@@ -1,6 +1,6 @@
 create_pdf_version <- function(input_file = "templates/cv.Rmd") {
   raw_rmd <- readLines(con = input_file)
-  pdf_rmd <- gsub('<a href = "/cv.pdf">PDF Version</a>', replacement = '', x = raw_rmd)
+  pdf_rmd <- gsub('<a href = "./cv.pdf">PDF Version</a>', replacement = '', x = raw_rmd)
   writeLines(text = pdf_rmd, con = "templates/cv_pdf.Rmd")
   closeAllConnections()
 }
