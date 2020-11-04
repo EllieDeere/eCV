@@ -1,0 +1,20 @@
+:root{
+    --sidebar-width: 10rem;
+}
+
+.aside h2 {
+    font-size: 0.9rem;
+}
+
+.pagedjs_page {
+  --pagedjs-margin-top: 0.5in;
+  --pagedjs-margin-bottom: 0.5in;
+}
+
+ul {
+      padding-inline-start: 20px;
+}
+
+body {
+  hyphens: none;
+}

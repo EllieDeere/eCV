@@ -4,6 +4,7 @@ author: Ellie Deere
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
+    css: [custom.css, resume]
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: TRUE
 # uncomment this line to produce HTML and PDF in RStudio:
@@ -20,18 +21,9 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> elliedeere123@gmail.com
+- elliedeere123@gmail.com
+- <a href="http://uk.linkedin.com/in/elliedeere">LinkedIn/elliedeere</a>
 - For more information, please contact me via email.
-
-
-Skills {#skills}
---------------------------------------------------------------------------------
-
-- Interpersonal and teamworking
-- Research
-- Problem solving
-- Statistical analysis
-- IT
 
 
 Publications {#publications}
@@ -62,7 +54,7 @@ First Class Honors - MSc. Clinical Neuropsychiatry
 
 London, UK
 
-2018 - 2019
+2019 - 2018
 
 Project: What are the barriers to people with dissociative seizures accessing treatment? A literature review and service evaluation
 
@@ -72,35 +64,23 @@ First Class Honors - BSc. Psychology
 
 Cardiff, UK
 
-2014 - 2018 
+2018 - 2014
 
 Project: Looking for trouble? An investigation into attentional biases of angry and fear faces in psychopathy and aggression
 
 Research Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
-### Assistant Clinical Psychologist
+### MSc Research Project
 
-Caswell Clinic
+King's College London
 
-Bridgend, UK
+London, UK
 
-2016 - 2017
+2019
 
-- Carried out risk assessments of new admissions using the HCR-20V3
-- Contributed to research on methods of psychotherapy
-- Made clinical judgements regarding the care and treatment of patients 
-
-### SPRINt Research Assistant
-
-School of Psychology, Cardiff
-
-Cardiff, UK
-
-June 2017 - August 2017
-
-- Investigated recognition memory deficits in mouse models of Down's syndrome
-- Immunohistochemistry testing on brain slices of mouse modles of Alzheimer's disease
+- Carried out a literature review analysing key barriers to accessing treatment for individuals with dissociative seizures
+- Carried out a further service evaluation of King's College Hospital, looking at the care pathway for patients with dissociative seizures
 
 
 ### BSc Research Project
@@ -114,19 +94,44 @@ Cardiff, UK
 - Studied attentional biases of angry and fearful faces in psychopathy and aggression, utilising a dot-probe paradigm
 - Awarded a First Class mark
 
-### MSc Research Project
+### SPRINt Research Assistant
 
-King's College London
+School of Psychology, Cardiff
 
-London, UK
+Cardiff, UK
 
-2019
+August 2017 - June 2017 
 
-- Carried out a literature review analysing key barriers to accessing treatment for individuals with dissociative seizures
-- Carried out a further service evaluation of King's College Hospital, looking at the care pathway for patients with dissociative seizures
+- Investigated recognition memory deficits in mouse models of Down's syndrome
+- Immunohistochemistry testing on brain slices of mouse modles of Alzheimer's disease
+
+### Assistant Clinical Psychologist
+
+Caswell Clinic
+
+Bridgend, UK
+
+2017 - 2016
+
+- Qualitative research investigating the impact of acceptance and commitment therapy for service users with psychosis
+- Carried out semi-structured interviews with service users and used thematic analysis to identify key themes
+- Provided me with a fundamental set of research and collaborative skills
 
 Professional Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
+
+### Acute Medical Healthcare Assistant
+
+Princess Elizabeth Hospital
+
+Guernsey, CI
+
+Present - March 2020
+
+- Work on an acute medical ward assisting and supporting patients with their daily care needs
+- Promoting independence, personal care, mobility and wellbeing
+- Completed The Care Certificate in under 4 months, receiving an award for Best Care Certificate upon completion
+- Further developed my communication, life-support, and practical clinical skills
 
 ### Neurological Support Worker
 
@@ -134,8 +139,82 @@ N/A
 
 London, UK
 
-2018 - 2019
+2019 - 2018
 
 - Worked in the community with people who have a brain injury of neurological disorder
-- worked primarily with an individual with cerebral palsy with limited mobility
+- Worked primarily with an individual with cerebral palsy with limited mobility
+- Worked to promote independence and support with daily living activities and wellbeing
+- Helped develop fundamental bedside manner and interpersonal communication skills in both a clinical and personal environment
 
+### Assistant Clinical Psychologist
+
+Caswell Clinic
+
+Bridgend, UK
+
+2017 - 2018
+
+- Carried out risk assessments of new admissions using the HCR-20V3
+- Contributed to research on methods of psychotherapy
+- Made clinical judgements regarding the care and treatment of patients
+- Provided first-hand experience of the practicalities of healthcare in a medium-secure psychiatric setting
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+### Interpersonal and teamworking
+
+N/A
+
+N/A
+
+N/A
+
+- I can communicate effectively and clearly, with compassion and understanding
+- I can identify communication needs and respond to them appropriately using relevant communications aids
+- I can work efficiently and pragmatically within an multidisciplinary team
+
+
+### Research
+
+N/A
+
+N/A
+
+N/A
+
+- Experience with wet lab protocols
+- Confident with both qualitative and quantitative research methods
+
+### Problem solving
+
+N/A
+
+N/A
+
+N/A
+
+- I am able to assess a situation by evaluating and managing risk
+- I can seek advice when needed whilst relying on my experience, skillset and initative
+
+### Statistical analysis
+
+N/A
+
+N/A
+
+N/A
+
+  + Confidence applying the family of general linear models
+  + Experience with qualitative analysis approaches such as Grounded Theory and thematic analysis
+  
+### IT
+
+N/A
+
+N/A
+
+N/A
+
+  + Experience utilising statistical and analytical software such as Excel and SPSS
+  + Confidence using experimental design software E-Prime
